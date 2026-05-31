@@ -50,3 +50,4 @@ vet_clinic/
 - Администратор: смена статуса, фильтрация, пагинация 5/стр, toast-уведомления
 - Слайдер: 4 слайда, автосмена 3 сек, кнопки вперёд/назад
 - Адаптация под 390×844 px
+<img width="1160" height="697" alt="image" src="https://github.com/user-attachments/assets/a9d05bd1-6e22-413d-bf63-fc514d87fc90" />
